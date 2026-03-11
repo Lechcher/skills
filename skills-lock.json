@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-skill-creator": {
+      "source": "francyjglisboa/agent-skill-creator",
+      "sourceType": "github",
+      "computedHash": "91c3c7cda6b7218a93455fdf47e99f97f70a94a106cee0aa6360bc280ec9fef1"
+    }
+  }
+}
