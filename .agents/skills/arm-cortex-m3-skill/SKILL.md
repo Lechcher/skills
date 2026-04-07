@@ -65,7 +65,12 @@ When the user asks a question, process it through these use cases:
 
 Read the following reference files automatically when users ask about their respective topics:
 
-- `references/trm_summary.md` – Core architecture features, execution modes, and Instruction set summary.
+- `assets/arm_cortexm3_processor_trm_100165_0201_02_en.pdf` – The full original source Technical Reference Manual.
+- `references/functional_description.md` – Detailed functional description of the Cortex-M3 processor, its features, and interfaces.
+- `references/programmers_model.md` – Detailed Programmers Model (Chapter 3), execution modes, instruction timings, Processor memory model, and Bit-banding.
+- `references/system_control.md` – System Control Space (Chapter 4), SCB, CPUID, and fault status registers.
+- `references/instruction_set_summary.md` – Comprehensive Cortex-M3 Instruction Set Summary.
+- `references/trm_summary.md` – Core architecture features, execution modes.
 - `references/memory_map.md` – Specific memory regions, bit-banding formulas, and MPU structure.
 - `references/debug_trace.md` – DWT, ITM, ETM configuration.
 
